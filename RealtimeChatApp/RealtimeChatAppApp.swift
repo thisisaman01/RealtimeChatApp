@@ -5,17 +5,6 @@
 //  Created by AMAN K.A on 29/11/25.
 //
 
-//import SwiftUI
-//
-//@main
-//struct RealtimeChatAppApp: App {
-//    var body: some Scene {
-//        WindowGroup {
-//            ContentView()
-//        }
-//    }
-//}
-
 import SwiftUI
 
 @main
